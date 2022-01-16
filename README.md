@@ -6,7 +6,9 @@ Repository ini berisi mengenai artikel-artikel laravel dari berbagai sumber
 
 ## Laravel Cache
 
-<a href="https://dailycode.id/blog/laravel-cache-menggunakan-redis-studi-kasus-cache-content-blog" target=_blank> - Cache Laravel Menggunakan Redis</a>
+- [Cache Laravel Menggunakan Redis](https://dailycode.id/blog/laravel-cache-menggunakan-redis-studi-kasus-cache-content-blog)
+
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 ## 🔗 Links
 
