@@ -23,7 +23,9 @@ I'm Adinata, a full-stack web developer working at Mid Teknologi Indonesia In th
 
 ## Tutorial Integrasi Laravel Dengan Admin Templates
 
-- [Integrasi Laravel Digital Ocean Space (S3 Compatible)](https://dailycode.id/blog/integrasi-laravel-dengan-s3-compatible-digitalocean-spaces)
+[Integrasi Laravel Digital Ocean Space (S3 Compatible)](admin_templates.md)
+
+- [](https://dailycode.id/blog/integrasi-laravel-dengan-s3-compatible-digitalocean-spaces)
 
 ## Tutorial Laravel Eloquent
 
